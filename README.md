@@ -20,9 +20,9 @@ As per scenario presented in the Assignment There are three types of Frustration
    - The onboarding flow is difficult to follow.
 
 
-## Requirements Gathering
+## Requirements Gathering  
 
-## Requirements Gathering
+Prepare the following questions to clarify the true intent of the client to gather necessary information and requirement  
 
 ### Questions for the Owner:
 - Can you walk me through the current process for new employee onboarding?
