@@ -20,4 +20,41 @@ As per scenario presented in the Assignment There are three types of Frustration
    - The onboarding flow is difficult to follow.
 
 
+## Requirements Gathering
+
+## Requirements Gathering
+
+### Questions for the Owner:
+- Can you walk me through the current process for new employee onboarding?
+- What are the specific pain points or bottlenecks in the existing process?
+- How are you currently providing training to new employees?
+
+### Questions for Employees:
+- Can you describe the current client onboarding process?
+- What are the most common challenges faced by you and clients during onboarding?
+- Are there any existing materials (forms, documents, etc.) used for client onboarding?
+
+### Customer Experience Questions (For Both Owner & Employees):
+- What are the major challenges faced by customers?
+- What feedback have you received from customers regarding the onboarding process?
+- Are there specific features or improvements customers have requested?  
+
+Prepare the following questions to clarify the true intent of the client to gather necessary information and requirement  
+
+
+### Questions for the Owner:
+- Can you walk me through the current process for new employee onboarding?
+- What are the specific pain points or bottlenecks in the existing process?
+- How are you currently providing training to new employees?
+
+### Questions for Employees:
+- Can you describe the current client onboarding process?
+- What are the most common challenges faced by you and clients during onboarding?
+- Are there any existing materials (forms, documents, etc.) used for client onboarding?
+
+### Customer Experience Questions (For Both Owner & Employees):
+- What do you think? What are the major challenges faced by customers?
+- What feedback have you received from customers regarding the onboarding process?
+- Are there specific features or improvements customers have requested?
+
 
