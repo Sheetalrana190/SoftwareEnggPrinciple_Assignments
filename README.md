@@ -93,27 +93,33 @@ This system will save time, reduce errors, and provide a smooth experience for b
 1.	Create the user interface and dashboards that the users will interact with.
 2.	Use React.js or Angular to create online forms for employee and pet owner sign-up.
 3.	Create webpage using HTML5, CSS3, and frameworks like Bootstrap to make it look good.  
+
 **Backend Development:**  
 
 4.	Choose either Node.js with Express.js or Python with Django/Flask to set up the server.
 5.	Build RESTful APIs to handle form submissions, retrieving data, and updating data in real-time.
 6.	Implement a login system using JWT to make sure users can securely sign in.  
+
 **Database Management:**  
 
 7.	Pick a database like MongoDB, MySQL to store and organize the data.  
+
 **File Storage:**  
 
 9.	Set up AWS or Google Cloud Storage to store and manage files like documents or images that users upload.
 10.	Employee application on platforms like AWS or Google Cloud Platform.  
+
 **Automated Reminders and Notifications:**  
 
 11.	Use SendGrid to send automatic SMS or email notifications.
 12.	Use cron jobs to schedule automatic reminders and tasks.  
+
 **Progress Tracking and Dashboards:**  
 
 13.	Use Chart.js or D3.js to create interactive charts that show progress.
 14.	Build dashboards for the admin to track the progress of employee and pet owner onboarding, using React Admin.
 15.	to package your application so it runs smoothly in any environment.  
+
 **Version Control:**  
 
 16.	Use Git to manage changes to your code.
