@@ -40,3 +40,20 @@ Prepare the following questions to clarify the true intent of the client to gath
 - Are there specific features or improvements customers have requested?
 
 
+### Follow-Up Clarification Questions:
+Based on the initial information, be prepared to ask follow-up questions such as:  
+- How do you identify the success of the onboarding processes for both employees and clients?
+- How do customers interact with the onboarding process e.g. online forms, phone calls, email or in-person?
+- Are there any regulatory or legal compliance required that need to be consider?
+- Would you be open to implementing an online system for standardizing onboarding?
+
+**Prepare Question Air for Customer of Pet Daycare to understand their requirements :**
+- How would you describe your experience with the current onboarding process?
+- What parts of the onboarding process did you find confusing?
+- Did you receive clear instructions on what information or documents were required?
+- Did you receive timely updates or reminders about your pet’s onboarding status?
+- Was the daycare staff helpful in guiding you through the process?
+- Would you like a digital onboarding guide to help onboarding questions?
+- Would you prefer to upload vaccination records and other required documents online?
+- On a scale of 1-10, how satisfied were you with the onboarding process?
+
