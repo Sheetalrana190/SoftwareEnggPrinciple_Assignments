@@ -77,3 +77,12 @@ Based on the initial information, be prepared to ask follow-up questions such as
 7.	As a customer, I want clear instructions on what documents are required so that I can prepare everything in advance.
 8.	As a customer, I want to receive timely updates about my pet’s onboarding status so that I am informed of any pending steps.
 
+
+## Based on the Client requirement how the system will look like
+The Pet Daycare Onboarding System will make the onboarding process easy and fast for both new employees and pet owners. Instead of using paperwork and different methods, everything will be done online in a simple and organized way.
+
+For new employees they will fill out an online form with their personal details, job role, and required documents like ID and certifications. The system will check for missing information and send reminders if anything is incomplete. Once submitted managers can review and approve the application. After approval, employees will get access to training modules and step-by-step guides to help them learn their job quickly. A dashboard will track their progress, ensuring they complete all onboarding steps on time.
+
+For customers, the system will allow them to register their pets online, enter important details, and upload vaccination records before their first visit. Employees will follow a standard process to check and approve the pet’s information. If any details are missing, the system will send automatic reminders to the pet owner. The onboarding status will be updated in real time, so employees and customers always know what steps are left.
+This system will save time, reduce errors, and provide a smooth experience for both employees and customers. Everything will be in one place, making onboarding faster, easier, and more consistent.
+
