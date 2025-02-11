@@ -1,4 +1,4 @@
-## Assignment 1: Getting Organized
+# Assignment 1: Getting Organized
 
 ### Student Information
 **Name:** Sheetal Rana  
@@ -120,28 +120,50 @@ This system will save time, reduce errors, and provide a smooth experience for b
 14.	Build dashboards for the admin to track the progress of employee and pet owner onboarding, using React Admin.
 15.	to package your application so it runs smoothly in any environment.  
 
+**Authentication and Authorization:**
+16.     Use JWT (JSON Web Tokens) for secure user authentication and authorization to be provided to the Owner, Employee and customer to access the portal as per their requirement.  
+
 **Version Control:**  
 
-16.	Use Git to manage changes to your code.
-17.	Store your code on platforms like GitHub for version management and collaboration.
+17.	Use Git to manage changes to your code.
+18.	Store your code on platforms like GitHub for version management and collaboration.
+
+##A set of preliminary tasks for fulfilling the requirements :
+-  Develop Standar System
+-  System Design & Planning
+-  Create online Platforn for Pet Daycare (For onboarding Employees and Customers)
+-  User Interface Development (For New Employees to join in and Customers to log in)
+-  Frontend Development
+-  Backend Development
+-  Database Setup
+-  API Development
+-  File Storage Configuration
+-  Authentication and Authorization
+-  Automated Reminders and Notifications
+-  Progress Tracking Dashboard
+-  Deployment
+-  Version Control
+-  Documentation
+
+
 
 ## Reference :
 
-Dogtopia. (n.d.). Dog boarding. Dogtopia. https://www.dogtopia.com/kitchener/dog-boarding/
+[1] Dogtopia. (n.d.). Dog boarding. Dogtopia. https://www.dogtopia.com/kitchener/dog-boarding/
 
-FedDev Ontario. (n.d.). How to start a pet care business in Ontario. Southern Ontario Fund for Investment in Innovation. https://sbs-spe.feddevontario.canada.ca/en/how-start-pet-care-business-ontario
+[2] FedDev Ontario. (n.d.). How to start a pet care business in Ontario. Southern Ontario Fund for Investment in Innovation. https://sbs-spe.feddevontario.canada.ca/en/how-start-pet-care-business-ontario
 
-PetSmart. (n.d.). Day camp requirements. PetSmart. https://services.petsmart.ca/content/daycamp-requirements
+[3] PetSmart. (n.d.). Day camp requirements. PetSmart. https://services.petsmart.ca/content/daycamp-requirements
 
-Direct Animal. (n.d.). What to bring to doggy daycare. Direct Animal.  https://www.directanimal.com/pet-daycare-resources/what-to-bring-to-doggy-daycare/
+[4] Direct Animal. (n.d.). What to bring to doggy daycare. Direct Animal.  https://www.directanimal.com/pet-daycare-resources/what-to-bring-to-doggy-daycare/
 
-Universal Class. (n.d.). The process of hiring the right employees for your dog daycare business. Universal Class. https://www.universalclass.com/articles/business/the-process-of-hiring-the-right-employees-for-your-dog-daycare-business.htm
+[5] Universal Class. (n.d.). The process of hiring the right employees for your dog daycare business. Universal Class. https://www.universalclass.com/articles/business/the-process-of-hiring-the-right-employees-for-your-dog-daycare-business.htm
 
-Microsoft. (n.d.). Copilot. Microsoft. https://copilot.cloud.microsoft/?fromcode=cmc&redirectid=324BF8029B384E2B91B0B0ECD36A67D4&auth=2
+[6] Microsoft. (n.d.). Copilot. Microsoft. https://copilot.cloud.microsoft/?fromcode=cmc&redirectid=324BF8029B384E2B91B0B0ECD36A67D4&auth=2
 
-Markdown Guide. (n.d.). Basic syntax. Markdown Guide. Retrieved February 10, 2025, from https://www.markdownguide.org/basic-syntax/
+[7] Markdown Guide. (n.d.). Basic syntax. Markdown Guide. Retrieved February 10, 2025, from https://www.markdownguide.org/basic-syntax/
 
-Prompt For new employees, they will fill out an online... | Try in Microsoft 365 Copilot
+[8] Prompt For new employees, they will fill out an online... | Try in Microsoft 365 Copilot
 
 
 
