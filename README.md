@@ -57,3 +57,12 @@ Based on the initial information, be prepared to ask follow-up questions such as
 - Would you prefer to upload vaccination records and other required documents online?
 - On a scale of 1-10, how satisfied were you with the onboarding process?
 
+
+## Assumption :
+- The current onboarding processes are not standardized and it should be standardized and simplified for both employees and customers.
+- They need efficient and consistent onboarding processes to be followed be everyone.
+- Employees should have a clear, unified process for onboarding new clients.
+- Customers should have an easy-to-follow onboarding process.
+- The owners want to reduce the employee onboarding time from three months to a more manageable duration by using the system that onboard new employees detail, providing training, tracking their progress to get in the roll.
+- The solution should be user-friendly and not require extensive training for staff.
+
