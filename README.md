@@ -66,3 +66,14 @@ Based on the initial information, be prepared to ask follow-up questions such as
 - The owners want to reduce the employee onboarding time from three months to a more manageable duration by using the system that onboard new employees detail, providing training, tracking their progress to get in the roll.
 - The solution should be user-friendly and not require extensive training for staff.
 
+
+## Client Requirements :
+1.	As the owner, I want a standardized employee onboarding process so that new hires can be trained efficiently and reduce onboarding time.
+2.	As the owner, I want a digital onboarding system so that employee training and client onboarding can be managed more efficiently.
+3.	As the owner, I want a system that tracks employee onboarding progress so that I can ensure they are meeting training milestones.
+4.	As an employee, I want a clear, structured process for onboarding clients so that I do not have to rely on my own method.
+5.	As an employee, I want a easy go through to input and track client details so that I can reduce paperwork and onboarding time.
+6.	As a customer, I want an easy-to-follow onboarding process so that I do not get confused while registering my pet.
+7.	As a customer, I want clear instructions on what documents are required so that I can prepare everything in advance.
+8.	As a customer, I want to receive timely updates about my pet’s onboarding status so that I am informed of any pending steps.
+
