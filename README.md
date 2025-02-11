@@ -125,3 +125,21 @@ This system will save time, reduce errors, and provide a smooth experience for b
 16.	Use Git to manage changes to your code.
 17.	Store your code on platforms like GitHub for version management and collaboration.
 
+Dogtopia. (n.d.). Dog boarding. Dogtopia. https://www.dogtopia.com/kitchener/dog-boarding/
+
+FedDev Ontario. (n.d.). How to start a pet care business in Ontario. Southern Ontario Fund for Investment in Innovation. https://sbs-spe.feddevontario.canada.ca/en/how-start-pet-care-business-ontario
+
+PetSmart. (n.d.). Day camp requirements. PetSmart. https://services.petsmart.ca/content/daycamp-requirements
+
+Direct Animal. (n.d.). What to bring to doggy daycare. Direct Animal.  https://www.directanimal.com/pet-daycare-resources/what-to-bring-to-doggy-daycare/
+
+Universal Class. (n.d.). The process of hiring the right employees for your dog daycare business. Universal Class. https://www.universalclass.com/articles/business/the-process-of-hiring-the-right-employees-for-your-dog-daycare-business.htm
+
+Microsoft. (n.d.). Copilot. Microsoft. https://copilot.cloud.microsoft/?fromcode=cmc&redirectid=324BF8029B384E2B91B0B0ECD36A67D4&auth=2
+
+Markdown Guide. (n.d.). Basic syntax. Markdown Guide. Retrieved February 10, 2025, from https://www.markdownguide.org/basic-syntax/
+
+Prompt For new employees, they will fill out an online... | Try in Microsoft 365 Copilot
+
+
+
